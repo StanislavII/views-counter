@@ -1,7 +1,7 @@
 ## [🔙 views-counter](https://github.com/StanislavII/views-counter)
 
-### :octocat: [ranepa_integrals.github.io](https://github.com/StanislavII/ranepa_integrals.github.io)
-![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/239823844/large/year.png)
+### :octocat: [Neural_Networks](https://github.com/StanislavII/Neural_Networks)
+![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/546723876/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>64</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>25</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/239823844/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/239823844/week.md)
+[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/546723876/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/week.md)
 ```readme
-[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/239823844/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/239823844/week.md)
+[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/546723876/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/week.md)
 ```
 ### Header
-# ranepa_integrals.github.io [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/239823844/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/239823844/year.md)
+# Neural_Networks [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/546723876/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/year.md)
 ```readme
-# ranepa_integrals.github.io [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/239823844/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/239823844/year.md)
+# Neural_Networks [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/546723876/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

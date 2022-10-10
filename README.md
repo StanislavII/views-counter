@@ -51,9 +51,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/239823844/small/year.png" height="20"> 48
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/546723876/year.md">
+				Neural_Networks
+			</a>
+		</td>
+		<td>
+			2022/10/7 9:44 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/546723876/small/year.png" height="20"> 64
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/10 6:40 AM UTC</i></small>
+<small><i>Last updated on 2022/10/10 9:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
