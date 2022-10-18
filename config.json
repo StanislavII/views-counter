@@ -5,6 +5,7 @@
   "repository": [
     "nlp-worksheets",
     "ranepa_integrals.github.io",
-    "Neural_Networks"
+    "Neural_Networks",
+    "airflow_docker_gpu"
   ]
 }
