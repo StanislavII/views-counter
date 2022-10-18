@@ -1,7 +1,7 @@
 ## [🔙 views-counter](https://github.com/StanislavII/views-counter)
 
-### :octocat: [nlp-worksheets](https://github.com/StanislavII/nlp-worksheets)
-![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/522233014/large/year.png)
+### :octocat: [airflow_docker_gpu](https://github.com/StanislavII/airflow_docker_gpu)
+![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/552123895/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>9</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>188</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/10/18 1:21 PM UTC</i></small>
+<small><i>Last updated on 2022/10/18 1:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/522233014/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/522233014/week.md)
+[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/552123895/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/week.md)
 ```readme
-[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/522233014/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/522233014/week.md)
+[![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/svg/552123895/badge.svg)](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/week.md)
 ```
 ### Header
-# nlp-worksheets [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/522233014/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/522233014/year.md)
+# airflow_docker_gpu [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/552123895/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/year.md)
 ```readme
-# nlp-worksheets [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/522233014/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/522233014/year.md)
+# airflow_docker_gpu [<img alt="Image of views-counter" src="https://github.com/StanislavII/views-counter/blob/master/graph/552123895/small/year.png" height="20">](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
