@@ -21,38 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/522233014/year.md">
-				nlp-worksheets
-			</a>
-		</td>
-		<td>
-			2022/10/16 12:00 AM UTC
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/522233014/small/year.png" height="20"> 42
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/239823844/year.md">
-				ranepa_integrals.github.io
-			</a>
-		</td>
-		<td>
-			2022/10/16 1:04 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/239823844/small/year.png" height="20"> 49
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/546723876/year.md">
 				Neural_Networks
 			</a>
@@ -74,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/15 12:00 AM UTC
+			2022/10/16 12:00 AM UTC
 		</td>
 		<td>
-			9
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/year.png" height="20"> 188
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/year.png" height="20"> 248
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/18 1:22 PM UTC</i></small>
+<small><i>Last updated on 2022/10/18 1:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
