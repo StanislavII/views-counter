@@ -3,8 +3,6 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "nlp-worksheets",
-    "ranepa_integrals.github.io",
     "Neural_Networks",
     "airflow_docker_gpu"
   ]
