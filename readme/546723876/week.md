@@ -2,11 +2,11 @@
 | [**Week →**](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/week.md) | [**Month →**](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/month.md) | [**Year →**](https://github.com/StanislavII/views-counter/blob/master/readme/546723876/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [Neural_Networks](https://github.com/StanislavII/Neural_Networks)
-![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/546723876/large/year.png)
+![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/546723876/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Year Page Views Table</h2>
+	<h2>:calendar: Week Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/1/1</code>
+			<code>2023/1/13</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,40 +32,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/12/1</code>
-		</td>
-		<td>
-			<code>4</code>
-		</td>
-		<td>
-			<code>11</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/11/1</code>
-		</td>
-		<td>
-			<code>2</code>
-		</td>
-		<td>
-			<code>7</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/10/1</code>
-		</td>
-		<td>
-			<code>14</code>
-		</td>
-		<td>
-			<code>56</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/9/1</code>
+			<code>2023/1/12</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -76,7 +43,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/8/1</code>
+			<code>2023/1/11</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -87,7 +54,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/7/1</code>
+			<code>2023/1/10</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -98,7 +65,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/6/1</code>
+			<code>2023/1/9</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -109,7 +76,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/5/1</code>
+			<code>2023/1/8</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -120,7 +87,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/4/1</code>
+			<code>2023/1/7</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -131,29 +98,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/3/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/2/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/1/1</code>
+			<code>2023/1/6</code>
 		</td>
 		<td>
 			<code>0</code>

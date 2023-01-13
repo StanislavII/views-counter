@@ -2,11 +2,11 @@
 | [**Week →**](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/week.md) | [**Month →**](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/month.md) | [**Year →**](https://github.com/StanislavII/views-counter/blob/master/readme/552123895/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [airflow_docker_gpu](https://github.com/StanislavII/airflow_docker_gpu)
-![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/552123895/large/year.png)
+![Image of views-counter](https://github.com/StanislavII/views-counter/blob/master/graph/552123895/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Year Page Views Table</h2>
+	<h2>:calendar: Month Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,6 +21,138 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2023/1/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/9</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/8</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/7</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/6</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/4</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/1/2</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2023/1/1</code>
 		</td>
 		<td>
@@ -32,40 +164,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/12/1</code>
-		</td>
-		<td>
-			<code>5</code>
-		</td>
-		<td>
-			<code>50</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/11/1</code>
-		</td>
-		<td>
-			<code>7</code>
-		</td>
-		<td>
-			<code>48</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/10/1</code>
-		</td>
-		<td>
-			<code>12</code>
-		</td>
-		<td>
-			<code>191</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/9/1</code>
+			<code>2022/12/31</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -76,7 +175,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/8/1</code>
+			<code>2022/12/30</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -87,7 +186,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/7/1</code>
+			<code>2022/12/29</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -98,7 +197,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/6/1</code>
+			<code>2022/12/28</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -109,7 +208,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/5/1</code>
+			<code>2022/12/27</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -120,7 +219,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/4/1</code>
+			<code>2022/12/26</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -131,7 +230,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/3/1</code>
+			<code>2022/12/25</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -142,7 +241,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/2/1</code>
+			<code>2022/12/24</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -153,7 +252,106 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/1/1</code>
+			<code>2022/12/23</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/21</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/20</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>38</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/15</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2022/12/14</code>
 		</td>
 		<td>
 			<code>0</code>

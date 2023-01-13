@@ -21,39 +21,39 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/546723876/year.md">
+			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/546723876/week.md">
 				Neural_Networks
 			</a>
 		</td>
 		<td>
-			2023/1/9 12:40 AM UTC
+			2023/1/11 12:41 AM UTC
 		</td>
 		<td>
 			29
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/546723876/small/year.png" height="20"> 171
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/546723876/small/week.png" height="20"> 171
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/552123895/year.md">
+			<a href="https://github.com/StanislavII/views-counter/tree/master/readme/552123895/week.md">
 				airflow_docker_gpu
 			</a>
 		</td>
 		<td>
-			2023/1/9 12:41 AM UTC
+			2023/1/11 12:41 AM UTC
 		</td>
 		<td>
 			41
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/year.png" height="20"> 523
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/week.png" height="20"> 523
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/11 6:13 PM UTC</i></small>
+<small><i>Last updated on 2023/1/13 5:41 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
