@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/8/8 12:40 AM UTC
+			2023/8/9 12:00 AM UTC
 		</td>
 		<td>
-			39
+			40
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/546723876/small/week.png" height="20"> 195
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/546723876/small/week.png" height="20"> 196
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/8/8 12:41 AM UTC
+			2023/8/9 12:00 AM UTC
 		</td>
 		<td>
-			63
+			64
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/week.png" height="20"> 571
+			<img alt="Response time graph" src="https://github.com/StanislavII/views-counter/raw/master/graph/552123895/small/week.png" height="20"> 572
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/8/10 6:10 PM UTC</i></small>
+<small><i>Last updated on 2023/8/11 12:33 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
